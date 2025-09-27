@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/Entrevistador.png"
+    src="./assets/Entrevistador.jpg"
     width="300"
 />
 </p>

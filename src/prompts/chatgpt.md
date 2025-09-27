@@ -28,11 +28,11 @@ Usei o ChatGPT para gerar **5 sugestões de nomes criativos** para o podcast, co
 ## 2️⃣ ChatGPT: Roteiro
 
 **O que eu fiz:**  
-Com o ChatGPT, criei o **roteiro completo** do episódio “A Guerra dos Selectores”. Foquei em manter uma linguagem acessível para iniciantes, adicionar curiosidades sobre CSS, mostrar ferramentas úteis e finalizar com uma despedida simpática. Ajustei algumas partes para deixar a leitura mais fluida e natural.
+Com o ChatGPT, criei o **roteiro completo** do episódio “A Guerra dos Seletores”. Foquei em manter uma linguagem acessível para iniciantes, adicionar curiosidades sobre CSS, mostrar ferramentas úteis e finalizar com uma despedida simpática. Ajustei algumas partes para deixar a leitura mais fluida e natural.
 
 **Prompt usado:**
 
-> Você é um roteirista especialista em podcasts de tecnologia e precisa criar um **roteiro completo** para podcast de frontend chamado **"A Guerra dos Selectores - CSS, design e a batalha pelo layout perfeito"**, voltado para iniciantes em frontend.  
+> Você é um roteirista especialista em podcasts de tecnologia e precisa criar um **roteiro completo** para podcast de frontend chamado **"A Guerra dos Seletores - CSS, design e a batalha pelo layout perfeito"**, voltado para iniciantes em frontend.  
 >
 > **Formato do roteiro:**  
 > 1. **INTRODUÇÃO:** Apresentação e conexão com o público iniciante.  
@@ -58,7 +58,7 @@ Usei o ImageFX para criar uma **capa épica**, inspirada em pôsteres de Star Wa
 
 > Arte de capa épica para podcast no estilo de **pôster de Star Wars**, cinematográfica e dramática. Um **guerreiro futurista** segurando um **sabre de luz brilhante feito de código CSS** (`div { color: blue; }`). Fundo: **campo de batalha digital cósmico** com grids, elementos de interface, botões, caixas e pixels flutuando. **Cores neon vibrantes, alto contraste, atmosfera sci-fi**.  
 >
-> **Título grande:** A Guerra dos Selectores  
+> **Título grande:** A Guerra dos Seletores  
 > **Subtítulo menor:** CSS, JAVASCRIPT, REACT, HTML
 
 ---
@@ -70,4 +70,4 @@ Usei uma ferramenta de **text-to-speech** para gerar o áudio do roteiro. Ajuste
 
 **Prompt usado:**
 
-> Use o roteiro do podcast **"A Guerra dos Selectores"** como texto de entrada. Leia de forma natural, envolvente e fluida, com pausas apropriadas entre blocos. Destaque títulos e curiosidades com pequenas variações de tom. O áudio deve ficar agradável, engajante e pronto para publicação como episódio.
+> Use o roteiro do podcast **"A Guerra dos Seletores"** como texto de entrada. Leia de forma natural, envolvente e fluida, com pausas apropriadas entre blocos. Destaque títulos e curiosidades com pequenas variações de tom. O áudio deve ficar agradável, engajante e pronto para publicação como episódio.

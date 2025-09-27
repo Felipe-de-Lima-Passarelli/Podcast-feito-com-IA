@@ -61,7 +61,7 @@ Criei este projeto como um desafio do bootcamp da UNIVERSIA em parceria com a Sa
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/127983008?v=4"
+      src="https://avatars.githubusercontent.com/u/174966059?v=4"
     />
     <p>&nbsp&nbsp&nbspFelipe de Lima Passarelli<br>
     &nbsp&nbsp&nbsp

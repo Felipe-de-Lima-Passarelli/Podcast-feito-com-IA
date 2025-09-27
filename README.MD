@@ -6,12 +6,12 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/felipelp">
+<a href="https://github.com/Felipe-de-Lima-Passarelli">
     <img 
         src="https://img.shields.io/badge/Projeto-Felipe_Podcast-28DA77?logo=github" 
         alt="Felipe Podcast Project">
 </a>
-<a href="https://github.com/felipelp">
+<a href="https://github.com/Felipe-de-Lima-Passarelli">
 <img 
     src="https://img.shields.io/badge/🎙️_AI_Podcast-FF5E72" 
     alt="AI Podcast">
